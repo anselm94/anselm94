@@ -1,20 +1,19 @@
-### Hey 👋,
-# Merbin J Anselm
+### Hey 👋, I'm Merbin J Anselm
 
 ## About Me 👀
 
-- 🎯 Full stack development
+- 🎯 Full stack developer
 
 - ❤️ Open source contributor
-<!-- - 🔭 I’m currently working on ...
+<!-- - 🔭 I’m currently working on ... -->
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning AI/ML
 
-- 👯 I’m looking to collaborate on ...
+<!-- - 👯 I’m looking to collaborate on ... -->
 
-- 🤔 I’m looking for help with ...
+<!-- - 🤔 I’m looking for help with ... -->
 
-- 💬 Ask me about anything -->
+- 💬 Ask me about anything
 
 - 📫 [merbinjanselm@gmail.com](mailto:merbinjanselm@gmail.com)
 
@@ -23,6 +22,12 @@
 <!-- - ⚡ Fun fact: ... -->
 
 <hr/>
+
+## Social Networks 👨‍🦲
+
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&link=https://www.linkedin.com/in/merbinjanselm)](https://www.linkedin.com/in/merbinjanselm)
+- [![Twitter](https://img.shields.io/badge/-Twitter-FFFFFF?style=flat&logo=twitter&link=https://twitter.com/MerbinJAnselm)](https://twitter.com/MerbinJAnselm)
+- [![Dribbble](https://img.shields.io/badge/-Dribble-F7B4CE?style=flat&logo=dribbble&link=https://dribbble.com/anselm94)](https://dribbble.com/anselm94) 
 
 ## Languages and Tools  💻
 
@@ -49,10 +54,11 @@
 
 <hr/>
 
-## Stats
+## Stats 📑
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anselm94.anselm94) 
 ![GitHub followers](https://img.shields.io/github/followers/anselm94?label=Follow&logo=Github&style=social)
 
-[![Merbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anselm94&count_private=true&show_icons=true&theme=dark)](https://github.com/anselm94)
+[![Merbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anselm94&count_private=true&show_icons=true&theme=dark)](https://github.com/anselm94) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anselm94&layout=compact&theme=dark)](https://github.com/anselm94)
